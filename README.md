@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">AI/ML Enthusiast | Competitive Programmer | Full Stack Developer | 3rd Year @ IIT (ISM) Dhanbad</h3>
 
----
+# 🚀 About Me :
+### 🎓 Currently a 3rd-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
+### 🤖 Passionate about *Artificial Intelligence*, *Machine Learning* & *Deep Learning*
+### ⚔️ Enthusiast of *Competitive Programming* & *DSA Problem-Solving*
+### 💻 Love building *Full Stack* real-world use case projects for fun & learning
+### 🌱 Always curious to learn and explore new tech in the AI/ML domain
+### 👀 Actively looking for *Job* & *Internship* opportunities
 
-## 🚀 About Me :
-### - 🎓 Currently a 3rd-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
-### - 🤖 Passionate about *Artificial Intelligence*, *Machine Learning* & *Deep Learning*
-### - ⚔️ Enthusiast of *Competitive Programming* & *DSA Problem-Solving*
-### - 💻 Love building *Full Stack* real-world use case projects for fun & learning
-### - 🌱 Always curious to learn and explore new tech in the AI/ML domain
-### - 👀 Actively looking for *Job* & *Internship* opportunities
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-iit-ism) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22je0095@iitism.ac.in) 
