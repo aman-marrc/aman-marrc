@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 About Me :
-- 🎓 Currently a 3rd-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
-- 🤖 Passionate about *Artificial Intelligence*, *Machine Learning* & *Deep Learning*
-- ⚔️ Enthusiast of *Competitive Programming* & *DSA Problem-Solving*
-- 💻 Love building *Full Stack* real-world use case projects for fun & learning
-- 🌱 Always curious to learn and explore new tech in the AI/ML domain
-- 👀 Actively looking for *Job* & *Internship* opportunities
+## 🚀 About Me :
+### - 🎓 Currently a 3rd-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
+### - 🤖 Passionate about *Artificial Intelligence*, *Machine Learning* & *Deep Learning*
+### - ⚔️ Enthusiast of *Competitive Programming* & *DSA Problem-Solving*
+### - 💻 Love building *Full Stack* real-world use case projects for fun & learning
+### - 🌱 Always curious to learn and explore new tech in the AI/ML domain
+### - 👀 Actively looking for *Job* & *Internship* opportunities
 
 ---
 
