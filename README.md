@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | Competitive Programmer | Full Stack Developer | 3rd Year @ IIT (ISM) Dhanbad</h3>
 
 # 🚀 About Me :
-### 🎓 Currently a 3rd-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
+### 🎓 Currently a final-year undergraduate at *Indian Institute of Technology (ISM), Dhanbad*
 ### 🤖 Passionate about *Artificial Intelligence*, *Machine Learning* & *Deep Learning*
 ### ⚔️ Enthusiast of *Competitive Programming* & *DSA Problem-Solving*
 ### 💻 Love building *Full Stack* real-world use case projects for fun & learning
